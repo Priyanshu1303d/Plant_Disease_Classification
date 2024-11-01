@@ -1,8 +1,8 @@
 # Plant Disease Classification
 
 ## Overview
-![Website Screenshot 1](https://raw.githubusercontent.com/Priyanshu1303d/Plant_Disease_Classification/refs/heads/main/website_1.png?token=GHSAT0AAAAAACWWQUDKQJGC62FO2SIAMII6ZZEKCGA)
-![Website Screenshot 2](https://raw.githubusercontent.com/Priyanshu1303d/Plant_Disease_Classification/refs/heads/main/website_2.png?token=GHSAT0AAAAAACWWQUDKDECBMDILC7E44ER4ZZEKB3A)
+![Website Screenshot 1](https://raw.githubusercontent.com/Priyanshu1303d/Plant_Disease_Classification/refs/heads/main/website_1.png?token=GHSAT0AAAAAACWWQUDKVWLSYKTXKSBU2QBYZZEK5PA)
+![Website Screenshot 2](https://raw.githubusercontent.com/Priyanshu1303d/Plant_Disease_Classification/refs/heads/main/website_2.png?token=GHSAT0AAAAAACWWQUDLM6MSJ34AX7564K4EZZEK6GQ)
 
 The Plant Disease Classification project is designed to assist in identifying various plant diseases using deep learning techniques. By leveraging a pre-trained model, users can upload images of plants, and the system will analyze them to detect potential diseases. This project aims to help farmers and agricultural professionals make informed decisions to protect crops and ensure a healthier harvest.
 
