@@ -76,7 +76,7 @@ def prediction_page():
         st.image(test_image,use_column_width=True)
 
     if(st.button("Predict")):
-        with st.spinner("Please wait..."):
+        with st.spinner("Please wait......"):
             st.write("Our Prediction")
             result_index = model_prediction(test_image)
 
