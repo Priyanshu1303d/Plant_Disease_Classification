@@ -1,0 +1,43 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache and compiled files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.keras
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment and config files
+.env
+.env.*
+
+# Ignore test, train, and valid datasets if they are temporary or auto-generated
+/test/
+/train/
+/valid/
+
+# Ignore Jupyter Notebook configurations (optional)
+.jupyter/
+.ipython/
+
+# PyCharm project files (optional, if using PyCharm)
+.idea/
+
+# VS Code settings (optional, if using VS Code)
+.vscode/
