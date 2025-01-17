@@ -1,4 +1,19 @@
 numpy
 matplotlib
-tensorflow==2.12.0
+tensorflow
 streamlit
+pandas
+dvc
+notebook
+seaborn
+python-box
+pyYAML
+tqdm
+ensure
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+
+-e .
